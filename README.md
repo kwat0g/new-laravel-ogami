@@ -1,1 +1,0 @@
-# new-laravel-ogami
